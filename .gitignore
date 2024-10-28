@@ -1,0 +1,60 @@
+# Кеши Gradle
+.gradle/
+build/
+
+# Логи Android Studio
+*.log
+
+# Каталоги сборки
+build/
+app/build/
+
+# Файлы Android Studio
+.idea/
+*.iml
+*.hprof
+
+# Директории с кешами Android Studio
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/misc.xml
+
+# Локальные файлы конфигурации
+local.properties
+*.orig
+.DS_Store
+
+# Файлы настроек пользовательского окружения
+.gradle/
+app/.cxx/
+app/.externalNativeBuild/
+
+# Ключи подписи (если используешь)
+*.jks
+*.keystore
+
+# Артефакты тестирования
+*.apk
+*.ap_
+output.json
+
+# Каталог с данными от сторонних библиотек и SDK
+.cxx/
+.externalNativeBuild/
+
+# Файлы настроек виртуальных машин и эмуляторов
+*.avd
+*.emulator_console_auth_token
+
+# Файлы CI/CD
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Логи
+*.log

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Ewa</string>
+    <string name="title_home">Players</string>
+    <string name="title_dashboard">Teams</string>
+    <string name="title_notifications">Settings</string>
+    <string name="player_image_details">Player Image</string>
+    <string name="player_name">Player Name</string>
+    <string name="player_info">Additional Info</string>
+    <string name="team_id_example">Example Team ID</string>
+    <string name="top_scorers">Top Scorers</string>
+    <string name="position">Position</string>
+    <string name="team_name">Team Name</string>
+    <string name="nationality">Nationality</string>
+    <string name="games">Games</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="penalties">Penalties</string>
+    <string name="cards">Cards</string>
+    <string name="theme_dark">Dark Mode</string>
+    <string name="team_list">Top 20 Teams</string>
+    <string name="theme_title">Settings</string>
+    <string name="privacy">Click to view Privacy Policy</string>
+    <string name="privacy_policy_text"><![CDATA[
+    Your privacy is important to us. This policy outlines how we collect, use, and protect your personal information when you use our app.
+
+    1. Information Collection: We collect information that you provide directly to us, such as your name and email address, as well as data collected automatically through your usage of the app.
+
+    2. Use of Information: We use your information to improve our services, provide customer support, and communicate with you about updates and promotions.
+
+    3. Data Protection: We implement security measures to protect your information from unauthorized access, disclosure, alteration, and destruction.
+
+    4. Third-Party Sharing: We do not sell or rent your personal information to third parties. We may share your information with trusted partners who assist us in operating our app and providing services to you.
+
+    5. Your Rights: You have the right to access, update, or delete your personal information at any time.
+
+    By using our app, you consent to the collection and use of your information as described in this policy. For more details, please contact us.
+    ]]></string>
+</resources>

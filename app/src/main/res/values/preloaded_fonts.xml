@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/anek_telugu_thin</item>
+        <item>@font/flow_circular</item>
+    </array>
+</resources>
