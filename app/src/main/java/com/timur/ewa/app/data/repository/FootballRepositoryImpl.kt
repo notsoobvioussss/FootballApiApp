@@ -5,7 +5,7 @@ import com.timur.ewa.app.data.model.TopScorer
 import com.timur.ewa.app.domain.repository.FootballRepository
 
 class FootballRepositoryImpl(private val api: FootballApi) : FootballRepository {
-    val apiKey = "1802eba2aamsh6d90ab045648085p164ad4jsn4468117101a5"
+    val apiKey = "pur_your_api_key"
 
     override suspend fun getTopScorers(leagueId: Int): List<TopScorer>? {
         val response = api.getTopScorers(leagueId, apiKey)
